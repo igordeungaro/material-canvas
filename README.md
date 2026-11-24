@@ -162,3 +162,12 @@ These great services sponsor MUI's core infrastructure:
 [CodeCov](https://about.codecov.io/) lets us monitor test coverage.
 
 </div>
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [mui/material-ui](https://github.com/mui/material-ui), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/mui/material-ui
